@@ -6,7 +6,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИК/ИМЯ_РЕПОЗИТОРИЯ.git
+    git clone https://github.com/xXvlervaXx/Telegram-Auto-Buyer-Bot.git
     cd ИМЯ_РЕПОЗИТОРИЯ
     ```
 
