@@ -1,0 +1,14 @@
+# Файл с секретными данными
+config.ini
+
+# Файлы сессии Telethon
+*.session
+*.session-journal
+
+# Системные файлы Python
+__pycache__/
+*.pyc
+
+# Файлы и папки Visual Studio
+.vs/
+TelegramBuyerBot.sln

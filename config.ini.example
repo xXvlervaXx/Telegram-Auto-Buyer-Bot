@@ -1,0 +1,11 @@
+[telegram]
+api_id = 0
+api_hash = ÂÀØ_API_HASH
+session_name = buyer_session
+
+[settings]
+target_bot = globalbakery_bot
+polling_interval_seconds = 60
+log_channel_name = Bakery Bot Logs
+category_callback_data = category/view?id=2183136
+ignore_callbacks = category/loveAdd?c_id=2183136, category/view?id=0, category/main
